@@ -1,0 +1,10 @@
+{
+      "name": "hello-world-express",
+      "version": "0.0.1",
+      "author": "Lily Isnaini Astriningsih",
+      "description": "Hello, nama saya Lilly Isnainin Astriningsih",
+      "scripts": {
+        "start": "node app.js"
+      },
+      "license": "MIT"
+}
